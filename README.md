@@ -1,2 +1,1 @@
-# globus-sdk-javascript-ex-01
-An example of a simple index.html file using the Globus JavaScript SDK
+An improved version of this example has moved to the Globus JavaScript SDK repository – https://github.com/globus/globus-sdk-javascript/tree/main/examples/basic.
